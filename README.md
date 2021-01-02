@@ -1,14 +1,4 @@
-# Covid-19 - Flutter UI
-
-## [Watch it on YouTube](https://youtu.be/zx6uMCoW2gQ)
-
-**Packages we are using:**
-
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
-
-**Fonts**
-
-- Poppins [link](https://fonts.google.com/specimen/Poppins)
+# Covid-19_UI - Flutter UI
 
 **UI Credit**
 
@@ -18,4 +8,17 @@
 
 ![App UI](/covid_19.png)
 
-![Demo](https://user-images.githubusercontent.com/5730051/79185949-8acf3c80-7e42-11ea-984d-b098cfee5cd1.gif)
+<img width="294" alt="login_resiter" src="https://github.com/manish2bharti/flutter_covid_19_ui/blob/main/assets/covid_19.png" width="100%">
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
