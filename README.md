@@ -8,7 +8,6 @@
 
 ![App UI](/covid_19.png)
 
-<img width="294" alt="login_resiter" src="https://github.com/manish2bharti/flutter_covid_19_ui/blob/main/assets/covid_19.png" width="100%">
 
 ## Getting Started
 
